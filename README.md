@@ -5,5 +5,5 @@ https://www.kaggle.com/c/walmart-recruiting-trip-type-classification
 
 ### Authored by Daniela Kutleva, Doug Rangel and Kris Makuch
 
-
+Deep learning neural network + random forest 
 
